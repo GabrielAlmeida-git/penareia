@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/src/initFirebase.js", "pages/src/utils/db/index.js", "pages/NewFireBaseAuth/index.js"],
   "exclude": ["node_modules"]
 }
